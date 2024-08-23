@@ -26,40 +26,40 @@ The dataset used in this analysis is DatasetAfricaMalaria.csv, which includes th
 
 
 ## Data Cleaning
-• Replaced missing values with 'Unknown'.
-•	Converted relevant columns to numeric types for analysis.
+* Replaced missing values with 'Unknown'.
+*	Converted relevant columns to numeric types for analysis.
 
 
 ## Analysis
-•	Trend of Malaria Incidence: Analyzed the overall trend of malaria incidence over time.
-•	Country with Highest Malaria Cases: Identified the country with the highest number of malaria cases.
-•	Top 5 Countries with Highest Malaria Incidence: Listed the top 5 countries with the highest malaria incidence.
-•	Year with Highest Global Average Malaria Incidence: Determined the year with the highest global average malaria incidence.
-•	Correlation Analysis: Examined the correlation between bed net usage and malaria incidence.
-•	Sanitation Improvement: Assessed improvements in rural sanitation services.
-•	Rural vs. Urban Population: Compared rural and urban population distributions in top malaria-affected countries.
-•	Bed Net Usage Over Time: Analyzed changes in bed net usage for the top 5 malaria-affected countries.
+*	Trend of Malaria Incidence: Analyzed the overall trend of malaria incidence over time.
+*	Country with Highest Malaria Cases: Identified the country with the highest number of malaria cases.
+*	Top 5 Countries with Highest Malaria Incidence: Listed the top 5 countries with the highest malaria incidence.
+*	Year with Highest Global Average Malaria Incidence: Determined the year with the highest global average malaria incidence.
+*	Correlation Analysis: Examined the correlation between bed net usage and malaria incidence.
+*	Sanitation Improvement: Assessed improvements in rural sanitation services.
+*	Rural vs. Urban Population: Compared rural and urban population distributions in top malaria-affected countries.
+*	Bed Net Usage Over Time: Analyzed changes in bed net usage for the top 5 malaria-affected countries.
 
 
 ## Ghana-Specific Analysis
-•	Conducted detailed analysis for Ghana, including:
-o	Trend of malaria incidence
-o	Change in number of malaria cases reported
-o	Correlation between bed net usage and malaria incidence
-o	Access to safely managed drinking water services and sanitation services
-o	Rural vs. urban population distribution
-o	Impact of rural population growth on malaria incidence
-o	Trend of urban population growth and its correlation with malaria incidence
-o	Year with highest malaria incidence and corresponding conditions
+*	Conducted detailed analysis for Ghana, including:
+*	Trend of malaria incidence
+*	Change in number of malaria cases reported
+*	Correlation between bed net usage and malaria incidence
+*	Access to safely managed drinking water services and sanitation services
+*	Rural vs. urban population distribution
+*	Impact of rural population growth on malaria incidence
+*	Trend of urban population growth and its correlation with malaria incidence
+*	Year with highest malaria incidence and corresponding conditions
 
 
 ## Visualization
-•	Malaria Incidence Trend: Line plot showing malaria incidence over time in Ghana.
-•	Malaria Cases Reported: Bar plot depicting malaria cases reported over time.
-•	Bed Net Usage vs. Malaria Incidence: Scatter plot illustrating the relationship between bed net usage and malaria incidence.
-•	Access to Safely Managed Drinking Water Services: Line plot showing trends in access to safe drinking water services.
-•	Access to Safely Managed Sanitation Services: Line plot depicting trends in access to sanitation services.
-•	Rural vs Urban Population Distribution: Dual line plot comparing rural and urban population distributions.
+*	Malaria Incidence Trend: Line plot showing malaria incidence over time in Ghana.
+*	Malaria Cases Reported: Bar plot depicting malaria cases reported over time.
+*	Bed Net Usage vs. Malaria Incidence: Scatter plot illustrating the relationship between bed net usage and malaria incidence.
+*	Access to Safely Managed Drinking Water Services: Line plot showing trends in access to safe drinking water services.
+*	Access to Safely Managed Sanitation Services: Line plot depicting trends in access to sanitation services.
+*	Rural vs Urban Population Distribution: Dual line plot comparing rural and urban population distributions.
 
 
 ## Conclusion
