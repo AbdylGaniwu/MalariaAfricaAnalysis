@@ -6,23 +6,23 @@ This repository contains a comprehensive analysis of malaria incidence across Af
 
 ## Dataset
 The dataset used in this analysis is DatasetAfricaMalaria.csv, which includes the following columns:
-* **Country Name: Name of the country
-* **Year: Year of the record
-* **Incidence of malaria (per 1,000 population at risk): Rate of malaria incidence
-* **Malaria cases reported: Number of reported malaria cases
-* **Use of insecticide-treated bed nets (% of under-5 population): Percentage of under-5 population using bed nets
-* **People using safely managed sanitation services, rural (% of rural population): Percentage of rural population with access to safe sanitation services
-* **People using safely managed drinking water services, rural (% of rural population): Percentage of rural population with access to safe drinking water
-* **Rural population (% of total population): Percentage of total population residing in rural areas
-* **Urban population (% of total population): Percentage of total population residing in urban areas
-* **Rural population growth (annual %): Annual percentage growth of rural population
-* **Urban population growth (annual %): Annual percentage growth of urban population
+* Country Name: Name of the country
+* Year: Year of the record
+* Incidence of malaria (per 1,000 population at risk): Rate of malaria incidence
+* Malaria cases reported: Number of reported malaria cases
+* Use of insecticide-treated bed nets (% of under-5 population): Percentage of under-5 population using bed nets
+* People using safely managed sanitation services, rural (% of rural population): Percentage of rural population with access to safe sanitation services
+* People using safely managed drinking water services, rural (% of rural population): Percentage of rural population with access to safe drinking water
+* Rural population (% of total population): Percentage of total population residing in rural areas
+* Urban population (% of total population): Percentage of total population residing in urban areas
+* Rural population growth (annual %): Annual percentage growth of rural population
+* Urban population growth (annual %): Annual percentage growth of urban population
 
 
 ## Code Overview
 ## Data Loading and Initial Assessment
-* **Loaded the dataset using pandas.
-* **Performed initial data exploration, including checking column names, data types, missing values, and duplicates.
+* Loaded the dataset using pandas.
+* Performed initial data exploration, including checking column names, data types, missing values, and duplicates.
 
 
 ## Data Cleaning
